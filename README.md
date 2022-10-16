@@ -44,7 +44,7 @@ The image is hosted on Docker hub at: [reorx/sui2](https://hub.docker.com/r/reor
 Run the following command to get started:
 
 ```
-docker run --rm -t -p 3000:3000 -v data:/data reorx/sui2
+docker run --rm -t -p 3000:3000 -v data:/data reorx/sui2:master
 ```
 
 Command explained:
